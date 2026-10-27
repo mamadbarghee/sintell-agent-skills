@@ -1,0 +1,34 @@
+[submodule "01-anthropic-skills"]
+	path = 01-anthropic-skills
+	url = https://github.com/anthropics/skills.git
+[submodule "02-claude-seo"]
+	path = 02-claude-seo
+	url = https://github.com/AgriciDaniel/claude-seo.git
+[submodule "03-prompt-master"]
+	path = 03-prompt-master
+	url = https://github.com/nidhinjs/prompt-master.git
+[submodule "04-agency-agents"]
+	path = 04-agency-agents
+	url = https://github.com/msitarzewski/agency-agents.git
+[submodule "05-graphify"]
+	path = 05-graphify
+	url = https://github.com/Graphify-Labs/graphify.git
+[submodule "06-instagram-agent-skill"]
+	path = 06-instagram-agent-skill
+	url = https://github.com/Jakeschincariol/instagram-agent-skill.git
+[submodule "07-day-trader-skill"]
+	path = 07-day-trader-skill
+	url = https://github.com/Jakeschincariol/day-trader-skill.git
+[submodule "08-n8n-workflows"]
+	path = 08-n8n-workflows
+	url = https://github.com/Zie619/n8n-workflows.git
+[submodule "09-bot-studio"]
+	path = 09-bot-studio
+	url = https://github.com/telefunction/bot-studio.git
+[submodule "10-free-claude-code"]
+	path = 10-free-claude-code
+	url = https://github.com/Alishahryar1/free-claude-code.git
+[submodule "11-omniroute"]
+	path = 11-omniroute
+	url = https://github.com/cheaper-inference/OmniRoute.git
+	branch = release/v3.8.53
