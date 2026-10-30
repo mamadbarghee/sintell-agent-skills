@@ -15,5 +15,6 @@ All the work in the numbered folders belongs to its authors. This collection onl
 | 09 | [telefunction/bot-studio](https://github.com/telefunction/bot-studio) | telefunction | GPL-3.0 | Copyleft: derivative works must stay GPL-3.0. |
 | 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Alishahryar1 | Not detected (NOASSERTION) | Check the repository's license file before any reuse beyond personal use. |
 | 11 | [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | cheaper-inference (diegosouzapw) | MIT | Pinned to its default branch `release/v3.8.53`. |
+| 12 | [alexyc9381/court-skill](https://github.com/alexyc9381/court-skill) | Alex Chen ([chen.media](https://chen.media), @nocodealex) | MIT | One trial runs up to 17 sub-agent calls; `--quick` uses 6 jurors. |
 
 If you are an author and want your project removed or described differently, please open an issue.

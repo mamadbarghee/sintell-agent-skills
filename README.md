@@ -17,6 +17,7 @@ A curated, numbered collection of the open-source Claude Code skills, agents and
 | 09 | `09-bot-studio` | Telegram Bot API explorer and request builder | [telefunction](https://github.com/telefunction/bot-studio) | GPL-3.0 |
 | 10 | `10-free-claude-code` | Run Claude Code and similar CLIs with other providers | [Alishahryar1](https://github.com/Alishahryar1/free-claude-code) | See the repository |
 | 11 | `11-omniroute` | One AI gateway endpoint for many providers | [cheaper-inference](https://github.com/cheaper-inference/OmniRoute) | MIT |
+| 12 | `12-court-skill` | Puts an idea on trial: prosecutor, defense, a jury of up to 12 Claudes and a judge | [Alex Chen](https://github.com/alexyc9381/court-skill) | MIT |
 
 Full credits and license notes: [CREDITS.md](CREDITS.md).
 

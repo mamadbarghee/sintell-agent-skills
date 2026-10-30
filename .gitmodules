@@ -32,3 +32,6 @@
 	path = 11-omniroute
 	url = https://github.com/cheaper-inference/OmniRoute.git
 	branch = release/v3.8.53
+[submodule "12-court-skill"]
+	path = 12-court-skill
+	url = https://github.com/alexyc9381/court-skill.git
